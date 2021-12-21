@@ -14,4 +14,5 @@
 (везде нужна регистрация в сервисе
 - Бесплатный курс по [python](https://www.kaggle.com/learn/python) на Kaggle <br>
 - Бесплатный курс по [pandas](https://www.kaggle.com/learn/pandas) на Kaggle  <br>
+- Бесплатный курс по [анализу данных на Python за 10 часов](https://www.freecodecamp.org/news/how-to-analyze-data-with-python-pandas/) <br>
 - Платно-бесплатные [курсы на DataCamp](https://app.datacamp.com/learn/courses/data-manipulation-with-pandas), например, Data Manipulation with Pandas <br>
